@@ -31,7 +31,7 @@ Unlike general-purpose language models, SyntasticAI has been specifically fine-t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-organization/syntasticai.git
+git clone https://github.com/OfficialAdamRivers/SyntasticAI
 cd syntasticai
 
 # Create a virtual environment
