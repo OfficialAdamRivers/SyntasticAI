@@ -144,9 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, feedback, or collaboration:
 
-- GitHub Issues: [Create an issue](https://github.com/your-organization/syntasticai/issues)
-- Email: contact@syntasticai.com
-- Twitter: [@SyntasticAI](https://twitter.com/SyntasticAI)
+- GitHub Issues: [Create an issue](https://github.com/OfficialAdamRivers/SyntasticAI/issues) 
 
 ## ⚙️ System Requirements
 
@@ -159,6 +157,9 @@ For questions, feedback, or collaboration:
 ## 🙏 Acknowledgements
 
 Special thanks to:
-- Meta AI for the original CodeLlama model
-- HuggingFace for the Transformers and PEFT libraries
-- Our open-source contributors
+- Meta AI for the original CodeLlama model. 
+- HuggingFace for the Transformers and PEFT libraries. 
+- Our open-source contributors. 
+- The Hacker Quarterly 2600 group and contributing members like C U for inspiring further need for code generative AI models.
+- Adam Rivers for the initial development and bare bones code. 
+- Joshua WI for finding a use for such a program leading to its initial creation. 
