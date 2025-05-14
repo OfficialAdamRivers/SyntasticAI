@@ -62,7 +62,7 @@ print(code)
 ```bash
 # Edit config.py to customize training parameters
 # Then run:
-python train.py
+python ModelBirth.py
 ```
 
 ## 📊 Performance
